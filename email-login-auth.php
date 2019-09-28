@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name:	Email Login Auth
-Plugin URI:		https://systmweb.com
+Plugin URI:	https://systmweb.com
 Description:	Enables logging into WordPress with users email address.
-Version:		0.5
-Author:			Shelby DeNike
-Author URI:		https://systmweb.com
-License:		GPL2
+Version:	0.5
+Author:		Shelby DeNike
+Author URI:	https://systmweb.com
+License:	GPL2
 */
 
 defined( 'ABSPATH' ) or die();

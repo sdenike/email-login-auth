@@ -1,7 +1,7 @@
 === Email Login Auth ===
 Contributors: sdenike
 Donate link: https://www.paypal.me/sdenike
-Tags: email, login, authentication, username, adopt-me
+Tags: email, login, authentication, username
 Requires at least: 4.0
 Tested up to: 5.2.3
 Stable tag: 0.5
