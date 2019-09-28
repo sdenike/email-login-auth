@@ -1,18 +1,16 @@
 <?php
 /*
 Plugin Name:	Email Login Auth
-Plugin URI:		https://github.com/MikkCZ/email-login-auth/
+Plugin URI:		https://systmweb.com
 Description:	Enables to login with WordPress user e-mail address.
-Version:		0.4
-Author:			Michal Stanke
-Author URI:		http://www.mikk.cz/
+Version:		0.5
+Author:			Shelby DeNike
+Author URI:		https://systmweb.com
 License:		GPL2
 */
 
 defined( 'ABSPATH' ) or die();
-
 define( 'EMAIL_LOGIN_AUTH_PLUGIN_FILE', __FILE__ );
-
 require_once 'email-login-auth-options.php';
 
 if ( get_option( 'email-login-auth-email', email_login_auth_get_default('email-login-auth-email') ) ) {
@@ -58,4 +56,3 @@ if ( get_option( 'email-login-auth-email', email_login_auth_get_default('email-l
 function get_email_login_auth_plugin_name() {
 	return 'Email Login Auth';
 }
-

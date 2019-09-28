@@ -1,14 +1,14 @@
 === Email Login Auth ===
-Contributors: flexithemes, mikk_cz
-Donate link: https://www.paypal.me/mstanke/100
+Contributors: sdenike
+Donate link: https://www.paypal.me/sdenike
 Tags: email, login, authentication, username, adopt-me
 Requires at least: 4.0
-Tested up to: 4.9.2
-Stable tag: 0.4
+Tested up to: 5.2.3
+Stable tag: 0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Enables to login with WordPress user e-mail address.
+Enables logging into WordPress with users email address.
 
 == Description ==
 
@@ -43,21 +43,10 @@ or
 
 == Changelog ==
 
-= 0.4 =
-* Update settings descriptions
-* Better readme.txt
-* Fix form label when username login disabled
-
-= 0.3 =
-* Add an option to disable username login for 'admin' only
-
-= 0.2.1 =
-* Add an option to disable username login
-
-= 0.1 =
-* First public release.
-
-== Upgrade Notice ==
+= 0.5 - Sept 28th, 2019 = 
+* Took over project from mikk_cz
+* Cleaned up some spacing
+* Cleaned up readme
 
 = 0.4 =
 * Update settings descriptions

@@ -99,4 +99,3 @@ function email_login_auth_checked( $option ) {
 		return '';
 	}
 }
-
