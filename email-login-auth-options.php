@@ -1,5 +1,4 @@
 <?php
-
 defined( 'ABSPATH' ) or die();
 
 function email_login_auth_get_default( $option ) {

@@ -2,7 +2,7 @@
 /*
 Plugin Name:	Email Login Auth
 Plugin URI:		https://systmweb.com
-Description:	Enables to login with WordPress user e-mail address.
+Description:	Enables logging into WordPress with users email address.
 Version:		0.5
 Author:			Shelby DeNike
 Author URI:		https://systmweb.com
